@@ -1,2 +1,2 @@
-# birdfly
-Birdfly repo
+# bird
+bird app

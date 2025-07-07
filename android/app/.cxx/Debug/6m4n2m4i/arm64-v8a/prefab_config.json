@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/user/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/user/Documents/apps/bird/node_modules/react-native-vision-camera/android/build/intermediates/prefab_package/debug/prefab",
+    "/Users/user/.gradle/caches/8.12/transforms/c7018ff52569100e09a41814798e87d0/transformed/jetified-react-android-0.78.0-debug/prefab",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/debug/prefab",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-worklets-core/android/build/intermediates/prefab_package/debug/prefab",
+    "/Users/user/.gradle/caches/8.12/transforms/023dbb0eb76f38af038fe321d6756fa9/transformed/jetified-hermes-android-0.78.0-debug/prefab",
+    "/Users/user/.gradle/caches/8.12/transforms/a8b92c8222e2e1e6b43cad54fdde4c10/transformed/jetified-fbjni-0.7.0/prefab"
+  ]
+}

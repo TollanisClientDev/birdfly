@@ -1,0 +1,147 @@
+{
+  "buildFiles": [
+    "/Users/user/Documents/apps/bird/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/@react-native-clipboard/clipboard/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/@react-native-community/geolocation/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/@react-native-documents/picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/@react-native-google-signin/google-signin/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-image-picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-permissions/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/react-native-worklets-core/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/user/Documents/apps/bird/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/user/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/user/Documents/apps/bird/android/app/.cxx/Debug/4y1u3l6u/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/user/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/user/Documents/apps/bird/android/app/.cxx/Debug/4y1u3l6u/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "appmodules",
+      "output": "/Users/user/Documents/apps/bird/android/app/build/intermediates/cxx/Debug/4y1u3l6u/obj/x86/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/user/Documents/apps/bird/android/app/build/intermediates/cxx/Debug/4y1u3l6u/obj/x86/libreact_codegen_safeareacontext.so",
+        "/Users/user/Documents/apps/bird/android/app/build/intermediates/cxx/Debug/4y1u3l6u/obj/x86/libreact_codegen_rnscreens.so",
+        "/Users/user/Documents/apps/bird/android/app/build/intermediates/cxx/Debug/4y1u3l6u/obj/x86/libreact_codegen_rnsvg.so",
+        "/Users/user/.gradle/caches/8.12/transforms/a8b92c8222e2e1e6b43cad54fdde4c10/transformed/jetified-fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/user/.gradle/caches/8.12/transforms/c7018ff52569100e09a41814798e87d0/transformed/jetified-react-android-0.78.0-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/user/.gradle/caches/8.12/transforms/c7018ff52569100e09a41814798e87d0/transformed/jetified-react-android-0.78.0-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    },
+    "react_codegen_RNCGeolocationSpec::@1b959fcb56e23f7716ba": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNCGeolocationSpec"
+    },
+    "react_codegen_RNGoogleSignInCGen::@337b7b353bd94a4215c0": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNGoogleSignInCGen"
+    },
+    "react_codegen_RNImagePickerSpec::@f66ee9a2efecfb28bee4": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNImagePickerSpec"
+    },
+    "react_codegen_RNPermissionsSpec::@7ad697819b753921c957": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNPermissionsSpec"
+    },
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNVectorIconsSpec"
+    },
+    "react_codegen_RNWorkletsSpec::@c787b30dd2b0f948dced": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNWorkletsSpec"
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rnasyncstorage"
+    },
+    "react_codegen_rnclipboard::@6385240493dfcaf22ab7": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rnclipboard"
+    },
+    "react_codegen_rndocumentpickerCGen::@aac1846a245ca418eb66": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rndocumentpickerCGen"
+    },
+    "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rngesturehandler_codegen"
+    },
+    "react_codegen_rnreanimated::@8afabad14bfffa3f8b9a": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rnreanimated"
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rnscreens",
+      "output": "/Users/user/Documents/apps/bird/android/app/build/intermediates/cxx/Debug/4y1u3l6u/obj/x86/libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "/Users/user/.gradle/caches/8.12/transforms/c7018ff52569100e09a41814798e87d0/transformed/jetified-react-android-0.78.0-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so",
+        "/Users/user/.gradle/caches/8.12/transforms/c7018ff52569100e09a41814798e87d0/transformed/jetified-react-android-0.78.0-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/user/.gradle/caches/8.12/transforms/a8b92c8222e2e1e6b43cad54fdde4c10/transformed/jetified-fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so"
+      ]
+    },
+    "react_codegen_rnsvg::@4f40eb209d0c0b4a3b65": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rnsvg",
+      "output": "/Users/user/Documents/apps/bird/android/app/build/intermediates/cxx/Debug/4y1u3l6u/obj/x86/libreact_codegen_rnsvg.so",
+      "runtimeFiles": [
+        "/Users/user/.gradle/caches/8.12/transforms/c7018ff52569100e09a41814798e87d0/transformed/jetified-react-android-0.78.0-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so",
+        "/Users/user/.gradle/caches/8.12/transforms/c7018ff52569100e09a41814798e87d0/transformed/jetified-react-android-0.78.0-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/user/.gradle/caches/8.12/transforms/a8b92c8222e2e1e6b43cad54fdde4c10/transformed/jetified-fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so"
+      ]
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_safeareacontext",
+      "output": "/Users/user/Documents/apps/bird/android/app/build/intermediates/cxx/Debug/4y1u3l6u/obj/x86/libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "/Users/user/.gradle/caches/8.12/transforms/a8b92c8222e2e1e6b43cad54fdde4c10/transformed/jetified-fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/user/.gradle/caches/8.12/transforms/c7018ff52569100e09a41814798e87d0/transformed/jetified-react-android-0.78.0-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/user/.gradle/caches/8.12/transforms/c7018ff52569100e09a41814798e87d0/transformed/jetified-react-android-0.78.0-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/user/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/user/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

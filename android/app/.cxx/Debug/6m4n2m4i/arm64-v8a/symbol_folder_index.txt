@@ -1,0 +1,1 @@
+/Users/user/Documents/apps/bird/android/app/build/intermediates/cxx/Debug/6m4n2m4i/obj/arm64-v8a
